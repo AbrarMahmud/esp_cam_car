@@ -2,7 +2,9 @@
 
 This project demonstrates a standalone **WiFi-based RC vehicle system** using the **ESP32-CAM module**. It serves a custom HTML-based camera interface over a local HTTP server without requiring internet access. The vehicle is controlled via a custom web page, and the control signals are relayed wirelessly to an Arduino Uno handling motor control.
 
----
+<div align="center">
+  <img src="https://github.com/AbrarMahmud/esp_cam_car/blob/master/source%20code/IMG_0492.gif" alt="github-small" width="60%">
+</div>
 
 ## 🚀 Project Overview
 
